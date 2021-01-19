@@ -1,6 +1,6 @@
 # Automatic-Tsinghua-Internet-Rebooting
-A python based TSU internet rebooting program, webdriver and firefox required
-Source codes @daili0015 github @https://github.com/daili0015/SEU_Net_Connect  
+A python based TSU internet rebooting program, webdriver and firefox required  
+Source codes @daili0015 github@https://github.com/daili0015/SEU_Net_Connect  
 You can download webdriver @https://github.com/mozilla/geckodriver/releases  
 
 
